@@ -1,6 +1,9 @@
 # Workforce & Resource Forecasting Tool  
 ### Excel • Python • Power BI
 
+###  Excel → Python Forecasting → Cleaned CSV Files → Power BI Modeling → Scenario Planning
+
+
 A complete workforce planning and forecasting system built using a synthetic but highly realistic operational dataset covering:  
 - Hourly workload (180 days)  
 - Forecasted demand (next 30 days)  
