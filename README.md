@@ -82,13 +82,6 @@ forecast.to_csv("forecast_output_30days.csv", index=False)
 
 ---
 
-## 📈 Results & Impact
-
-- Improved workload planning accuracy by **25%**  
-- Automated forecasting reduced manual effort by **70%**  
-- Provided clear visibility into SLA-at-risk periods  
-- Enabled accurate staffing planning and gap detection  
-- Delivered business-ready insights for daily operations  
 
 ---
 
