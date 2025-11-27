@@ -80,15 +80,4 @@ future = model.make_future_dataframe(periods=30)
 forecast = model.predict(future)
 forecast.to_csv("forecast_output_30days.csv", index=False)
 
----
 
-
----
-
-## 📸 Screenshots
-*(Add real images in `/images/` and update paths)*
-
-```md
-![Dashboard Overview](./images/dashboard_overview.png)
-![Forecast Plot](./images/forecast_plot.png)
-![Staffing Gap Heatmap](./images/staffing_gap.png)
